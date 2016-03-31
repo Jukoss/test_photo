@@ -1,0 +1,63 @@
+/* font-family: "ConeriaScriptDemo"; */
+@font-face {
+	font-family: "ConeriaScriptDemo";
+	src: url("../fonts/ConeriaScriptDemo/ConeriaScriptDemo.eot");
+	src: url("../fonts/ConeriaScriptDemo/ConeriaScriptDemo.eot?#iefix")format("embedded-opentype"),
+	url("../fonts/ConeriaScriptDemo/ConeriaScriptDemo.woff") format("woff"),
+	url("../fonts/ConeriaScriptDemo/ConeriaScriptDemo.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "OpenSansSemiBold"; */
+@font-face {
+    font-family: "OpenSansSemiBold";
+    src: url("../fonts/OpenSansSemiBold/OpenSansSemiBold.eot");
+    src: url("../fonts/OpenSansSemiBold/OpenSansSemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansSemiBold/OpenSansSemiBold.woff") format("woff"),
+    url("../fonts/OpenSansSemiBold/OpenSansSemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "VivaldiItalicV1"; */
+@font-face {
+    font-family: "VivaldiItalicV1";
+    src: url("../fonts/VivaldiItalicV1/VivaldiItalicV1.eot");
+    src: url("../fonts/VivaldiItalicV1/VivaldiItalicV1.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/VivaldiItalicV1/VivaldiItalicV1.woff") format("woff"),
+    url("../fonts/VivaldiItalicV1/VivaldiItalicV1.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "OpenSansRegular"; */
+@font-face {
+    font-family: "OpenSansRegular";
+    src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+    src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+    url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "OpenSansBold"; */
+@font-face {
+    font-family: "OpenSansBold";
+    src: url("../fonts/OpenSansBold/OpenSansBold.eot");
+    src: url("../fonts/OpenSansBold/OpenSansBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/OpenSansBold/OpenSansBold.woff") format("woff"),
+    url("../fonts/OpenSansBold/OpenSansBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "LCALLIG"; */
+@font-face {
+    font-family: "LCALLIG";
+    src: url("../fonts/LCALLIG/LCALLIG.eot");
+    src: url("../fonts/LCALLIG/LCALLIG.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/LCALLIG/LCALLIG.woff") format("woff"),
+    url("../fonts/LCALLIG/LCALLIG.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
